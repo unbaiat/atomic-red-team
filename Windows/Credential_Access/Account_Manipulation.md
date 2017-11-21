@@ -27,7 +27,7 @@ If successful, the Administrator account will be renamed with `HaHaHa_` followed
 
 ## Example 2
 
-If successful, the Administrator account will be renamed with `HaHaHa_` followed by 4 to 8 digits.
+If successful, a new service will be installed on the system. The service will rename on startup the Administrator account with `HaHaHa_` followed by 4 to 8 digits.
 
     $x = Get-Random -Minimum 2 -Maximum 99
     $y = Get-Random -Minimum 2 -Maximum 99
